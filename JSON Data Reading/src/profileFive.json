@@ -1,0 +1,11 @@
+{
+  "username": "michael_jackson",
+  "name": "Michael Jackson",
+  "age": 50,
+  "email": "michael.jackson@example.com",
+  "address": {
+    "city": "Nashville",
+    "state": "TN",
+    "country": "USA"
+  }
+}

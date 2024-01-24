@@ -1,0 +1,11 @@
+{
+  "username": "john_doe",
+  "name": "John Doe",
+  "age": 28,
+  "email": "john.doe@example.com",
+  "address": {
+    "city": "New York",
+    "state": "NY",
+    "country": "USA"
+  }
+}
